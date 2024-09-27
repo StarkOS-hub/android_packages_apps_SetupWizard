@@ -33,7 +33,7 @@
                 android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
                 android:scaleType="centerInside"
-                android:tint="?android:attr/colorAccent" />
+                android:tint="?android:attr/colorAccent"
                 android:src="@drawable/logo" />
 
             <Space
