@@ -37,7 +37,6 @@
             android:scaleType="centerInside"
             android:tint="?android:attr/colorAccent"
             android:adjustViewBounds="true"
-            android:scaleType="fitCenter"
             android:gravity="center"
             android:padding="@dimen/content_margin_left"/>
 
